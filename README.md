@@ -8,6 +8,8 @@ Pantheon is website platform optimized and configured to run high performance si
 
 ### 1. Spin-up a site
 
+
+
 If you do not yet have a Pantheon account, you can create one for free. Once you've verified your email address, you will be able to add sites from your dashboard. Choose "WordPress" to use this distribution.
 
 ### 2. Load up the site
